@@ -1,4 +1,5 @@
 # Coffee Shop App
+![Coffee Shop Banner](assets/readme/coffee-shop-banner.png)
 
 A Flutter coffee shop application with a warm, modern interface for discovering coffee and exploring drink details.
 
@@ -21,6 +22,8 @@ The interface features a warm coffee-inspired visual identity, rounded surfaces,
 
 ## Design System
 The visual identity is based on a warm, coffee-inspired color palette combining deep espresso tones, creamy surfaces, caramel accents, and muted sage green.
+
+![Color Palette](assets/readme/color-palette.svg)
 
 | Color | Hex |
 | :--- | :--- |
