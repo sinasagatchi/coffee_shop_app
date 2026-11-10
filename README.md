@@ -52,4 +52,4 @@ The visual identity is based on a warm, coffee-inspired color palette combining 
 ### Installation
 Clone the repository:
 ```bash
-git clone [https://github.com/sinasagatchi/CoffeShopApp.git](https://github.com/sinasagatchi/CoffeShopApp.git)
+git clone https://github.com/sinasagatchi/coffee_shop_app.git
