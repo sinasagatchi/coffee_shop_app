@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+  <rect width="1200" height="330" rx="24" fill="#F5EBDD"/>
+  <text x="48" y="58" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#211814">COFFEE SHOP — COLOR PALETTE</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="48" y="92" width="250" height="150" rx="16" fill="#211814"/>
+    <rect x="344" y="92" width="250" height="150" rx="16" fill="#4A2E1F"/>
+    <rect x="640" y="92" width="250" height="150" rx="16" fill="#B87945"/>
+    <rect x="936" y="92" width="216" height="150" rx="16" fill="#87917A"/>
+    <g font-size="19" font-weight="700" fill="#211814">
+      <text x="48" y="276">Espresso</text><text x="344" y="276">Mocha</text>
+      <text x="640" y="276">Caramel</text><text x="936" y="276">Sage</text>
+    </g>
+    <g font-size="17" fill="#4A2E1F">
+      <text x="48" y="306">#211814</text><text x="344" y="306">#4A2E1F</text>
+      <text x="640" y="306">#B87945</text><text x="936" y="306">#87917A</text>
+    </g>
+  </g>
+</svg>

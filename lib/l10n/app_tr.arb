@@ -1,0 +1,75 @@
+{
+  "@@locale": "tr",
+  "introductionTitleOne": "Kahvenin Tadını Çıkarın",
+  "introductionSubtitleOne": "Daha önce hiç olmadığı kadar yoğun kahve kokusunu ve lezzetini keşfedin.",
+  "introductionTitleTwo": "Kahveyle Anın Tadını Çıkarın",
+  "introductionSubtitleTwo": "Özenle hazırladığımız harmanları deneyin, farkı hissedin.",
+  "introductionTitleThree": "Kahve Keyfinizi Yükseltin",
+  "introductionSubtitleThree": "Özenle kavrulmuş kahvelerimizin zengin ve güçlü aromalarını keşfedin.",
+  "getStarted": "Başlayın",
+  "allCategory": "Tümü",
+  "categoryMacchiato": "Macchiato",
+  "categoryFrappe": "Frappé",
+  "homeFindTheBest": "Size en uygun",
+  "homeCoffeeForYou": "kahveyi keşfedin",
+  "homeSpecialForYou": "Size özel",
+  "searchCoffeeHint": "Kahvenizi bulun...",
+  "searchCoffeeTooltip": "Kahve ara",
+  "noCoffeeFound": "Kahve bulunamadı",
+  "navigationCompleted": "Tamamlananlar",
+  "navigationPending": "Bekleyenler",
+  "navigationReminders": "Hatırlatıcılar",
+  "coffeeAmericanoName": "Americano",
+  "coffeeAmericanoIngredients": "Kremalı",
+  "coffeeAmericanoDescription": "Americano, espressoya sıcak su eklenerek hazırlanan bir kahvedir. Filtre kahveye güçlü aromalı bir alternatiftir. İkinci Dünya Savaşı sırasında Avrupa'daki Amerikalı askerlerin espressolarını daha uzun süre içebilmek için sıcak suyla seyreltmesiyle ortaya çıkmıştır.",
+  "coffeeLatteName": "Latte",
+  "coffeeLatteIngredients": "Çikolatalı",
+  "coffeeLatteDescription": "Latte, espresso ve buharda ısıtılmış sütle hazırlanır; üzerine az miktarda süt köpüğü eklenir. İtalya kökenli bu kahve bugün dünyanın dört bir yanında sevilir. Yumuşak ve kremamsı tadı, şeker ya da aromalı şuruplarla tatlandırılabilir.",
+  "coffeeCappuccinoName": "Cappuccino",
+  "coffeeCappuccinoIngredients": "Yulaf Sütlü",
+  "coffeeCappuccinoDescription": "Cappuccino, espresso ve buharda ısıtılmış sütle hazırlanır; üzerine genellikle süt köpüğü eklenir. İtalya kökenli bu kahve, güçlü aromasıyla dünyanın dört bir yanında sevilir ve çoğunlukla küçük fincanda servis edilir.",
+  "coffeeEspressoName": "Espresso",
+  "coffeeEspressoIngredients": "Şekerli",
+  "coffeeEspressoDescription": "Espresso, ince öğütülmüş kahvenin içinden basınçla sıcak su geçirilerek hazırlanan yoğun bir kahvedir. İtalya kökenlidir ve bugün dünyanın her yerinde içilir. Güçlü aroması nedeniyle genellikle küçük fincanda servis edilir.",
+  "coffeeMochaName": "Mocha",
+  "coffeeMochaIngredients": "Krem Şantili",
+  "coffeeMochaDescription": "Mocha, espresso, çikolata ve buharda ısıtılmış sütle hazırlanır. Yoğun ve zengin aroması, üzerine eklenen krem şanti ve çikolata parçalarıyla tamamlanır. İtalya kökenli bu kahve bugün dünyanın dört bir yanında sevilir.",
+  "detailDescription": "Açıklama",
+  "detailPrice": "Fiyat",
+  "detailBuyNow": "Satın Al",
+  "detailReadMore": "Devamını Oku",
+  "detailReadLess": "Daha Az Göster",
+  "detailCoffeeIngredient": "Kahve",
+  "detailMilkIngredient": "Süt",
+  "detailRoastLevel": "Orta Kavrulmuş",
+  "detailBackTooltip": "Geri",
+  "favoriteAddTooltip": "Favorilere ekle",
+  "favoriteRemoveTooltip": "Favorilerden çıkar",
+  "coffeeAddTooltip": "Kahveyi seç (önizleme)",
+  "coffeeSelectedPreview": "{coffeeName} seçildi (yalnızca önizleme).",
+  "@coffeeSelectedPreview": {
+    "placeholders": {
+      "coffeeName": {
+        "type": "String"
+      }
+    }
+  },
+  "coffeeSizeSelectedPreview": "{coffeeName} ({size}) seçildi. Sipariş özelliği yalnızca önizlemedir.",
+  "@coffeeSizeSelectedPreview": {
+    "placeholders": {
+      "coffeeName": {
+        "type": "String"
+      },
+      "size": {
+        "type": "String"
+      }
+    }
+  },
+  "featuredArticleTitle": "Denemeniz Gereken 5 Kahve Çekirdeği",
+  "featuredArticleActionTooltip": "Kahve yazısı",
+  "homeIntroductionTooltip": "Tanıtımı aç",
+  "languageEnglish": "İngilizce",
+  "languageTurkish": "Türkçe",
+  "switchToEnglish": "Dili İngilizceye değiştir",
+  "switchToTurkish": "Dili Türkçeye değiştir"
+}

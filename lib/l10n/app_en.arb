@@ -1,0 +1,75 @@
+{
+  "@@locale": "en",
+  "introductionTitleOne": "Rise and Savor the Coffee",
+  "introductionSubtitleOne": "Experience the aroma and flavor like never before.",
+  "introductionTitleTwo": "Savor the Moment with Our Coffee",
+  "introductionSubtitleTwo": "Indulge in our artisanal blends and taste the difference.",
+  "introductionTitleThree": "Elevate Your Coffee Experience",
+  "introductionSubtitleThree": "Discover a world of rich, bold flavors with our premium roasts.",
+  "getStarted": "Get Started",
+  "allCategory": "All",
+  "categoryMacchiato": "Macchiato",
+  "categoryFrappe": "Frappé",
+  "homeFindTheBest": "Find the best",
+  "homeCoffeeForYou": "coffee for you",
+  "homeSpecialForYou": "Special for you",
+  "searchCoffeeHint": "Find your coffee...",
+  "searchCoffeeTooltip": "Search coffee",
+  "noCoffeeFound": "No coffee found",
+  "navigationCompleted": "Completed",
+  "navigationPending": "Pending",
+  "navigationReminders": "Reminders",
+  "coffeeAmericanoName": "Americano",
+  "coffeeAmericanoIngredients": "With Cream",
+  "coffeeAmericanoDescription": "An Americano is a coffee drink made with espresso and hot water. It is a popular alternative to drip coffee and has a strong, bold flavor. The drink originated in Europe during World War II, when American soldiers diluted espresso with hot water to make it last longer.",
+  "coffeeLatteName": "Latte",
+  "coffeeLatteIngredients": "With Chocolate",
+  "coffeeLatteDescription": "A latte is a coffee drink made with espresso and steamed milk. It is typically topped with a small amount of frothed milk. The drink originated in Italy and is now enjoyed around the world. It has a mild, creamy flavor and is often sweetened with sugar or flavored syrups.",
+  "coffeeCappuccinoName": "Cappuccino",
+  "coffeeCappuccinoIngredients": "With Oat Milk",
+  "coffeeCappuccinoDescription": "A cappuccino is a coffee beverage made with espresso and steamed milk, often topped with a layer of frothed milk. This espresso drink originated in Italy and is now popular around the world. It has a strong, bold flavor and is typically served in a small cup.",
+  "coffeeEspressoName": "Espresso",
+  "coffeeEspressoIngredients": "With Sugar",
+  "coffeeEspressoDescription": "Espresso is a concentrated coffee made by forcing hot water through finely ground coffee beans. It originated in Italy and is now enjoyed around the world. Espresso has a strong, bold flavor and is typically served in small shots.",
+  "coffeeMochaName": "Mocha",
+  "coffeeMochaIngredients": "With Whipped Cream",
+  "coffeeMochaDescription": "A mocha is a coffee drink made with espresso, chocolate, and steamed milk. It has a rich, indulgent flavor and is often topped with whipped cream and chocolate shavings. The drink originated in Italy and is now enjoyed around the world.",
+  "detailDescription": "Description",
+  "detailPrice": "Price",
+  "detailBuyNow": "Buy Now",
+  "detailReadMore": "Read More",
+  "detailReadLess": "Read Less",
+  "detailCoffeeIngredient": "Coffee",
+  "detailMilkIngredient": "Milk",
+  "detailRoastLevel": "Medium Roasted",
+  "detailBackTooltip": "Back",
+  "favoriteAddTooltip": "Add to favorites",
+  "favoriteRemoveTooltip": "Remove from favorites",
+  "coffeeAddTooltip": "Select coffee (preview)",
+  "coffeeSelectedPreview": "{coffeeName} selected (preview only).",
+  "@coffeeSelectedPreview": {
+    "placeholders": {
+      "coffeeName": {
+        "type": "String"
+      }
+    }
+  },
+  "coffeeSizeSelectedPreview": "{coffeeName} ({size}) selected. Ordering is a preview only.",
+  "@coffeeSizeSelectedPreview": {
+    "placeholders": {
+      "coffeeName": {
+        "type": "String"
+      },
+      "size": {
+        "type": "String"
+      }
+    }
+  },
+  "featuredArticleTitle": "5 Coffee Beans You Must Try",
+  "featuredArticleActionTooltip": "Coffee article",
+  "homeIntroductionTooltip": "Open introduction",
+  "languageEnglish": "English",
+  "languageTurkish": "Turkish",
+  "switchToEnglish": "Switch language to English",
+  "switchToTurkish": "Switch language to Turkish"
+}
